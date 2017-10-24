@@ -3,3 +3,27 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8010/eureka/
+---
+spring:
+  profiles: subject
+words: I,You,He,She,It,subjectku
+
+---
+spring:
+  profiles: verb
+words: ran,knew,had,saw,bought,vku
+
+---
+spring:
+  profiles: article
+words: a,the,arhu
+
+---
+spring:
+  profiles: adjective
+words: reasonable,leaky,suspicious,ordinary,unlikely,advu
+
+---
+spring:
+  profiles: noun
+words: boat,book,vote,seat,backpack,partition,groundhog,noku
