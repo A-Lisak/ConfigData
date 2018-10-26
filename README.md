@@ -1,16 +1,4 @@
 # ConfigData
-**da**
-
-ggg
------
-2. lll
-
-- nhhhhhhhh
-
--kkkkkkkkkkkk
--jjjjjjjjjjjj
-
-```
 ---
 spring:
   application:
